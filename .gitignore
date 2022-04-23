@@ -5,3 +5,4 @@ share/
 pyvenv.cfg
 *.zip
 ml-25m/
+ratings_counter/data/
